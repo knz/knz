@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- ⚡ I'm a computer scientist and software engineer specialized in **compiler construction, language runtime internals, operating systems and databases** (a.k.a. “deep back-end stuff”).
+- ⚡ I know things about **compiler construction, language runtime internals, operating systems and databases** (a.k.a. “deep back-end stuff”).
 - 🏣 I currently help the folk at [Cockroach Labs](https://cockroachlabs.com), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach),
   with leadership things, architecture things, engineering culture and some code janitorial duties.
 - ✨ What I try to do best:
