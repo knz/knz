@@ -19,6 +19,6 @@ Secondary (shared office):
 
 - 🖥 [FreeBSD](https://freebsd.org/) / 💻 [xubuntu](https://xubuntu.org/).
 - 📝 [Emacs](https://emacs.org/) (and [vim](https://www.vim.org/) sometimes).
-- ⌨ [zsh](https://en.wikipedia.org/wiki/Z_shell) — [i3](https://en.wikipedia.org/wiki/I3_(window_manager)) — [st](https://st.suckless.org/) — [tmux](https://en.wikipedia.org/wiki/Tmux) — [mosh](https://mosh.org/) — [vlc](https://www.videolan.org/vlc/).-
+- ⌨ [zsh](https://en.wikipedia.org/wiki/Z_shell) — [i3](https://en.wikipedia.org/wiki/I3_(window_manager)) — [st](https://st.suckless.org/) — [tmux](https://en.wikipedia.org/wiki/Tmux) — [mosh](https://mosh.org/) — [vlc](https://www.videolan.org/vlc/).
 - 🌍 [firefox](https://www.mozilla.org/en-US/firefox/new/) — 📧 [thunderbird](https://thunderbird.net/).
- 🎥[OBS](https://obsproject.com/) — [showkeys](github.com/knz/showkeys).
+- 🎥[OBS](https://obsproject.com/) — [showkeys](github.com/knz/showkeys).
