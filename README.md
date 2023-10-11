@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I know things about **compiler construction, language runtime internals, operating systems and databases** (a.k.a. “deep back-end stuff”).
-- 🏣 I currently help the folk at [Cockroach Labs](https://cockroachlabs.com), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach),
+- 🏣 I occasionally help the folk at [Cockroach Labs](http://cockroachlabs.com), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach),
   with leadership things, architecture things, engineering culture and some code janitorial duties.
 - ✨ What I try to do best:
   - seeing the present as it is, and the future as it should be,
