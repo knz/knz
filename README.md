@@ -9,7 +9,6 @@
   - leading by example, teaching and being a good friend.
 - 💬 Ask me about power dynamics, management, unix, the history of computing, and art in video games.
 - 🌱 Main hobby: help other folk's projects grow. Latest discovery: [Charm](https://charm.sh) and [Bubbletea](https://github.com/charmbracelet/bubbletea) 💖!
-- 🎥 I try to stream some programming weekly over on Twitch: https://twitch.tv/kena42. Come hang out every Friday!
 - ⚒ In case you're interested, see [the tools of the trade](workspace.md).
 - 🔗 Check out my website for blog posts and more! [https://dr-knz.net/](https://dr-knz.net/archives/)
 - 🐦 Follow me on Twitter: https://twitter.com/kena42
