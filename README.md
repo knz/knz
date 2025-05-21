@@ -1,18 +1,16 @@
 ### Hi there 👋
 
 - ⚡ I have built wide and deep technical expertise about **compilers, operating systems and databases** (a.k.a. “deep back-end stuff”).
-- 🏣 I have helped the folk at [Neon](https://neon.tech), the creators of [Neon (Serverless Postgres)](https://github.com/neondatabase/neon) with leadership things, architecture things, engineering culture and code janitorial duties.
-- 🏣 I have helped the folk at [Cockroach Labs](http://cockroachlabs.com), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach),
-  with similar things as Neon.
+- 🏣 I have helped the folk at [Cockroach Labs](http://cockroachlabs.com), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach) and [Neon](https://neon.tech), the creators of [Neon (Serverless Postgres)](https://github.com/neondatabase/neon) with leadership, architecture, engineering culture and innumerable complex projects. (10 years)
+- 🏣 In a previous life I also had a long and accomplished career as a scientific researcher and university lecturer. (also 10 years)
+- 💬 Passionate about: product design, management, coaching, unix, dignified living, international tax treaties, the history of computing, snowboarding and art in video games.
 - ✨ What I try to do best:
   - seeing the present as it is, and the future as it should be,
   - improving projects, situations, myself,
   - leading by example, teaching and being a good friend.
-- 💬 Ask me about power dynamics, management, unix, the history of computing, and art in video games.
-- 🌱 Main hobby: [break the ice](https://breaktheice.social).
+- 🕔 I tend to work on US-East office hours.
 - ⚒ In case you're interested, see [the tools of the trade](workspace.md).
-- 🔗 Check out my website for blog posts and more! [https://dr-knz.net/](https://dr-knz.net/archives/)
-- 🐦 Follow me on Twitter: https://twitter.com/kena42
+- 🔗 Check out my linktr.ee! [linktr.ee/kena42](https://linktr.ee/kena42/)
 - 🏠 I live near Amsterdam in The Netherlands, but I travel a lot.
 
 Glad to see you here!
