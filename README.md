@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I know things about **compiler construction, language runtime internals, operating systems and databases** (a.k.a. “deep back-end stuff”).
+- ⚡ I have built wide and deep technical expertise about **compilers, operating systems and databases** (a.k.a. “deep back-end stuff”).
 - 🏣 I have helped the folk at [Neon](https://neon.tech), the creators of [Neon (Serverless Postgres)](https://github.com/neondatabase/neon) with leadership things, architecture things, engineering culture and code janitorial duties.
 - 🏣 I have helped the folk at [Cockroach Labs](http://cockroachlabs.com), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach),
   with similar things as Neon.
