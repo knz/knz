@@ -10,7 +10,6 @@
   - leading by example, teaching and being a good friend.
 - 🕔 I tend to work on US-East office hours.
 - ⚒ In case you're interested, see [the tools of the trade](workspace.md).
-- 🔗 Check out my linktr.ee! [linktr.ee/kena42](https://linktr.ee/kena42/)
 - 🏠 I live near Amsterdam in The Netherlands, but I travel a lot.
 
 Glad to see you here!
