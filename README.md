@@ -1,5 +1,3 @@
-### Raphael Poss (@knz)
-
 I turn tech into products & teams into homes.
 
 Work with me → https://raphaelposs.com/work
